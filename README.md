@@ -1,6 +1,21 @@
-[![Build Status](https://api.travis-ci.org/urweb/urweb.png?branch=master)](https://travis-ci.org/urweb/urweb)
+# Fork Introduction
+
+[![Build Status](https://api.travis-ci.org/fullreset/urweb.png?branch=master)](https://travis-ci.org/fullreset/urweb)
+
+Below is the original README from urweb/urweb; but first a few notes:
+
+* Ur/Web packages are very out of date on FreeBSD; I haven't checked other BSDs, so you'll have to see for yourselves... 
+* To build later version(s) of Ur/Web it is vital that you use GNU make (gmake) rather than make. 
+
+# Quickstart
+
+Type `./autoconf.sh` followed by `gmake` and you should be in business. :) 
+
+-------------
 
 # The Ur/Web Programming Language
+
+[![Build Status](https://api.travis-ci.org/urweb/urweb.png?branch=master)](https://travis-ci.org/urweb/urweb)
 
 Implementation of a domain-specific functional programming language for web applications.  Please see [the Ur/Web project web site](http://www.impredicative.com/ur/) for much more information!  Here's a summary:
 

@@ -5,13 +5,17 @@
 Below is the original README from urweb/urweb; but first a few notes:
 
 * Ur/Web packages are very out of date on FreeBSD; I haven't checked other BSDs, so you'll have to see for yourselves... 
-* To build later version(s) of Ur/Web you must use GNU make (gmake) rather than BSD make. 
+* To build later version(s) of Ur/Web you must use GNU make (aka `gmake`) rather than BSD make. 
+
+More to follow...
 
 # Quickstart
 
 Type `./autoconf.sh` followed by `gmake` and you should be in business. :) 
 
--------------
+---------
+### The original README.md is as follows:
+---------
 
 # The Ur/Web Programming Language
 

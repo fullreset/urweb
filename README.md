@@ -5,7 +5,7 @@
 Below is the original README from urweb/urweb; but first a few notes:
 
 * Ur/Web packages are very out of date on FreeBSD; I haven't checked other BSDs, so you'll have to see for yourselves... 
-* To build later version(s) of Ur/Web it is vital that you use GNU make (gmake) rather than make. 
+* To build later version(s) of Ur/Web you must use GNU make (gmake) rather than BSD make. 
 
 # Quickstart
 

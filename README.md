@@ -11,7 +11,7 @@ More to follow...
 
 # *BSD Quickstart
 
-Type `./autoconf.sh` followed by `gmake` and you should be on your way. :) 
+Type `./autoconf.sh && ./configure && gmake` and you should be on your way. Optionally follow with `gmake install`.
 
 ---------
 ### The original README.md is as follows:
